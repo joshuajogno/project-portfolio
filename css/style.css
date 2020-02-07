@@ -1,0 +1,256 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+background-color: #B5EAD7;
+    
+   
+}
+@font-face{
+    src:url(../fonts/Sacramento/Sacramento-Regular.ttf);
+    font-family: "sacramento";
+}
+@font-face{
+    src: url(../fonts/Belgian+Signature/Belgian\ Signature/);
+    font-family: "sig";
+}
+@font-face{
+    src: url(../fonts/seconds/Seconds.otf);
+    font-family: "seconds";
+}
+@font-face{
+    src: url(../fonts/VOID-family/void\ bold.otf);
+    font-family: "void";
+}
+
+
+
+#first-heading{
+    font-family: seconds;
+    font-size: 115px;
+    font-weight: bold;
+    color: #ED553B;
+    
+}
+.heading{
+    background:#FF9AA2;
+    padding:0%;
+    padding-bottom: 0%;
+    clear: both;
+
+}
+.content-sub{
+    padding: 0%;
+    padding-bottom: 0%;
+    font-family: sig;
+    font-size: 50px;
+    color: #F6D55C;
+    font-weight: bolder;
+}
+
+#bundok{
+    top: 90;
+    clear: both;
+    position: relative;
+}
+#ulap{
+    float: left;
+    top: 0%;
+
+}
+#cloud{
+    float: right;
+    
+}
+#bird{
+    float: right;
+    height: 100px;
+    width: 100px;
+}
+#bird2{
+    float: left;
+    height: 100px;
+    width: 100px;
+}
+
+
+
+
+.mid-container{
+    margin:10%;
+    text-align: center;
+}
+.top-content{
+    text-align: center;
+}
+#pic{
+    border-radius: 50%  ;
+    height: 40vh;
+    width: 40vh;
+}
+#mid-title{
+    font-size: 41px;
+    padding: 0.5%;
+    font-family: void;
+    color: #ED553B;
+    font-weight: bold;
+    
+}
+.mid{
+    padding:2%;
+    font-family: sig;
+    font-size: 20px;
+    color: #20639B;
+}
+#skills{
+    text-align: center;
+}
+.mskills{
+    font-family: void;
+    font-weight: bold; 
+    padding: 2%;
+    padding-bottom: 2%;
+    font-size:50px;
+    color:  #ED553B;
+}
+.photo{
+    height: 20vh;
+    width: 20vh;
+    float: left;
+    margin-left: 20%;
+   
+    
+}
+.an{
+    font-family: sacramento;
+    font-weight: bolder;
+    text-align: left;
+    text-indent: 1%;
+    color: #173F5F;
+    font-size: 30px;
+    
+    
+}
+.down{
+    text-align: justify;
+    text-indent: 1%;
+    text-align-last: center;
+    padding:0%;
+    font-family: sig;
+    font-size: 20px;
+    color: #20639B;
+    
+    margin-bottom: 10%;
+    margin-right: 1cm;
+}
+.edit{
+    height: 20vh;
+    width: 20vh;
+    float: right;
+    margin-right: 19%;
+    font-weight: bold;
+   
+   
+}
+.ed{
+    font-family: sacramento;
+    font-weight: bolder;
+    text-align: left;
+    text-indent: 1%;
+    margin-left: 20%;
+    color: #173F5F;
+    font-size: 30px;
+    
+    
+}
+.p2{
+    text-align: justify;
+    text-indent: 1%;
+    font-family: sig;
+    font-size: 20px;
+    color: #20639B;
+  
+    margin-left: 20.3%;
+    margin-right: 30%;
+    text-align-last: center;
+    padding-bottom: 70px;
+}
+.gintouch{
+    font-family: sacramento;
+    font-weight: bold; 
+    padding: 2%;
+    padding-top: 10%;
+    font-size:45px; 
+    padding-bottom: 0%;
+    color: black;
+}
+#git{
+    text-align:center;
+}
+.gettoknow{
+    font-family: new;
+    color:#20639B;;
+    padding-bottom: 1%;
+    font-size: 23px;
+
+}
+.contact{
+    font-family: sig;
+    color:#20639B;
+    font-size: 20px;
+    text-indent: 1%;
+    padding-bottom: 3%;
+    
+    
+}
+.Cm{
+    border-radius: 25px;
+    background: #ED553B;;
+    width: 150px;
+    height: 30px;
+    padding: 5px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 45%;
+    margin-right: 45%;
+    
+
+  
+}
+.footer{
+    padding-top: 5%;
+    left: 0%;
+    bottom: 0;
+    width: 100%;
+    background-color: cadetblue;
+    color: white;
+    text-align: center;
+}
+.fb{
+    padding: 50px;
+    text-decoration: none;
+
+    
+}
+.insta{
+
+    padding: 50px;
+    text-decoration: none;
+    
+}
+.twit{
+    padding: 50px;
+    text-decoration: none;
+}
+.ff{
+    line-height: 70px;
+    font-family: new;
+    color: white;
+    font-weight: bold;
+}
+.insta:hover{color:white ; font-weight: bold}
+
+.twit:hover{color:white ; font-weight: bold}
+
+.fb:hover{color:white ; font-weight: bold}
